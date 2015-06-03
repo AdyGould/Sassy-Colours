@@ -1,0 +1,1190 @@
+/**
+ * Sass Colour Definitions - Social Media Brands X
+ *
+ * @file:       /_colours-brands-X.scss
+ * @project:    Sassy-Colours
+ * @author:     adrian gould <adrian.gould@polytechnic.wa.edu.au>
+ * @date:       03/06/15
+ * @version:    1.0
+ * @copyright:  Copyright 2015 Adrian Gould,
+ *              Released under the Creative Commons Share Alike license
+ *
+ * History:
+ *
+ * v 1.0    03/06/15
+ *          Initial version
+ */
+
+//== Social Media Brand Colours
+$colour-twitter:        #00aced;
+$colour-facebook :      #3b5998;
+$colour-googleplus :    #dd4b39;
+$colour-pinterest :     #cb2027;
+$colour-linkedin :      #007bb6;
+$colour-youtube :       #bb0000;
+$colour-vimeo :         #aad450;
+$colour-tumblr :        #32506d;
+$colour-instagram :     #517fa4;
+$colour-flickr :        #ff0084;
+$colour-dribbble :      #ea4c89;
+$colour-quora :         #a82400;
+$colour-foursquare :    #0072b1;
+$colour-forrst :        #5B9A68;
+$colour-vk :            #45668e;
+$colour-wordpress :     #21759b;
+$colour-stumbleupon :   #EB4823;
+$colour-yahoo :         #7B0099;
+$colour-blogger :       #fb8f3d;
+$colour-soundcloud :    #ff3a00;
+
+$colour-4ormat: #fb0a2a;
+
+$colour-500px: #0099e5;
+$colour-500px-2: #ff4c4c;
+$colour-500px-3: #34bf49;
+
+$colour-about-me: #00405d;
+$colour-about-me-2: #062f3c;
+$colour-about-me-3: #2b82ad;
+$colour-about-me-4: #cc7a00;
+$colour-about-me-5: #ffcc33;
+
+$colour-addvocate: #ff3322;
+
+$colour-adobe: #ff0000;
+$colour-adobe-2: #fbb034;
+$colour-adobe-3: #ffdd00;
+$colour-adobe-4: #c1d82f;
+$colour-adobe-5: #00a4e4;
+$colour-adobe-6: #8a7967;
+$colour-adobe-7: #6a737b;
+
+$colour-aetna: #d20962;
+$colour-aetna-2: #f47721;
+$colour-aetna-3: #7ac143;
+$colour-aetna-4: #00a78e;
+$colour-aetna-5: #00bce4;
+$colour-aetna-6: #7d3f98;
+
+$colour-aim: #ffd900;
+
+$colour-airbnb: #fd5c63;
+
+$colour-alcon: #0079c1;
+$colour-alcon-2: #49176d;
+$colour-alcon-3: #00a0af;
+$colour-alcon-4: #49a942;
+
+$colour-alienware: #020202;
+$colour-alienware-2: #2ad2c9;
+$colour-alienware-3: #d0e100;
+$colour-alienware-4: #00f0f0;
+$colour-alienware-5: #00f000;
+$colour-alienware-6: #f0e000;
+$colour-alienware-7: #00a0f0;
+$colour-alienware-8: #9000f0;
+$colour-alienware-9: #f00000;
+
+$colour-amazon: #ff9900;
+$colour-amazon-2: #146eb4;
+
+$colour-american-red-cross: #ed1b2e;
+$colour-american-red-cross-2: #6d6e70;
+$colour-american-red-cross-3: #d7d7d8;
+$colour-american-red-cross-4: #b4a996;
+$colour-american-red-cross-5: #ecb731;
+$colour-american-red-cross-6: #8ec06c;
+$colour-american-red-cross-7: #537b35;
+$colour-american-red-cross-8: #c4dff6;
+$colour-american-red-cross-9: #56a0d3;
+$colour-american-red-cross-10: #0091cd;
+$colour-american-red-cross-11: #004b79;
+$colour-american-red-cross-12: #7f181b;
+$colour-american-red-cross-13: #d7d7d8;
+$colour-american-red-cross-14: #9f9fa3;
+$colour-american-red-cross-15: #000000;
+
+$colour-android: #a4c639;
+
+$colour-angies-list: #7fbb00;
+
+$colour-answers: #136ad5;
+$colour-answers-2: #fb8a2e;
+
+$colour-aol: #ff0b00;
+$colour-aol-2: #00c4ff;
+
+$colour-arch-linux: #1793d1;
+$colour-arch-linux-2: #333333;
+
+$colour-asana: #1f8dd6;
+$colour-asana-2: #34ad00;
+
+$colour-associated-press: #ff322e;
+
+$colour-att: #ff7200;
+$colour-att-2: #fcb314;
+$colour-att-3: #067ab4;
+$colour-att-4: #3aa5dc;
+
+$colour-atlanta-falcons: #000000;
+$colour-atlanta-falcons-2: #a71930;
+$colour-atlanta-falcons-3: #a5acaf;
+
+$colour-atlantic-coast-conference-acc: #013ca6;
+$colour-atlantic-coast-conference-acc-2: #a5a9ab;
+
+$colour-atlassian: #003366;
+
+$colour-auth0: #16214d;
+$colour-auth0-2: #44c7f4;
+$colour-auth0-3: #eb5424;
+$colour-auth0-4: #d0d2d3;
+
+$colour-baidu: #de0f17;
+$colour-baidu-2: #2529d8;
+
+$colour-bandcamp: #629aa9;
+
+$colour-barnes-noble: #2a5934;
+
+$colour-bebo: #e04646;
+
+$colour-behance: #1769ff;
+
+$colour-best-buy: #003b64;
+$colour-best-buy-2: #fff200;
+
+$colour-big-cartel: #a0ac48;
+$colour-big-cartel-2: #70b29c;
+
+$colour-bing-2: #ffb900;
+$colour-bing-2-2: #505050;
+$colour-bing-2-3: #a3a3a3;
+
+$colour-bitbucket: #205081;
+
+$colour-bitly: #ee6123;
+$colour-bitly-2: #61b3de;
+
+$colour-blackberry: #005387;
+$colour-blackberry-2: #8cb811;
+$colour-blackberry-3: #fdb813;
+$colour-blackberry-4: #88aca1;
+$colour-blackberry-5: #000000;
+$colour-blackberry-6: #788cb6;
+$colour-blackberry-7: #a1a1a4;
+$colour-blackberry-8: #8f8f8c;
+
+$colour-blogger: #f57d00;
+
+$colour-boeing: #0039a6;
+
+$colour-booking-com: #003580;
+
+$colour-boy-scouts-of-america: #ce1126;
+$colour-boy-scouts-of-america-2: #003f87;
+
+$colour-british-airways: #075aaa;
+$colour-british-airways-2: #eb2226;
+$colour-british-airways-3: #01295c;
+$colour-british-airways-4: #efe9e5;
+$colour-british-airways-5: #aca095;
+$colour-british-airways-6: #b9cfed;
+$colour-british-airways-7: #a7a9ac;
+
+$colour-bt: #d52685;
+$colour-bt-2: #553a99;
+$colour-bt-3: #6cbc35;
+$colour-bt-4: #fd9f3e;
+$colour-bt-5: #08538c;
+
+$colour-buffer: #168eea;
+$colour-buffer-2: #ee4f4f;
+$colour-buffer-3: #fff9ea;
+$colour-buffer-4: #76b852;
+$colour-buffer-5: #323b43;
+$colour-buffer-6: #59626a;
+$colour-buffer-7: #ced7df;
+$colour-buffer-8: #eff3f6;
+$colour-buffer-9: #f4f7f9;
+
+$colour-burger-king: #ec1c24;
+$colour-burger-king-2: #fdbd10;
+$colour-burger-king-3: #0066b2;
+$colour-burger-king-4: #ed7902;
+
+$colour-canon: #bc0024;
+$colour-canon-2: #000000;
+
+$colour-carbonmade: #613854;
+
+$colour-carrefour: #00387b;
+$colour-carrefour-2: #bb1e10;
+$colour-carrefour-3: #f67828;
+$colour-carrefour-4: #237f52;
+
+$colour-case-mate: #84754e;
+$colour-case-mate-2: #a6192e;
+$colour-case-mate-3: #decba5;
+$colour-case-mate-4: #000000;
+
+$colour-charity-water: #ffc907;
+$colour-charity-water-2: #2e9df7;
+$colour-charity-water-3: #231f20;
+
+$colour-cheddar: #ff7243;
+
+$colour-coca-cola: #ed1c16;
+
+$colour-code-school: #616f67;
+$colour-code-school-2: #c68143;
+
+$colour-codecademy: #f65a5b;
+$colour-codecademy-2: #204056;
+
+$colour-creative-market: #8ba753;
+
+$colour-crunchbase: #2292a7;
+
+$colour-cunard: #1d1d1b;
+$colour-cunard-2: #ae9a64;
+$colour-cunard-3: #e42313;
+$colour-cunard-4: #8b8c8d;
+
+$colour-daimler: #263f6a;
+$colour-daimler-2: #182b45;
+$colour-daimler-3: #6b0f24;
+$colour-daimler-4: #193725;
+$colour-daimler-5: #606061;
+
+$colour-delectable: #334858;
+$colour-delectable-2: #cd595a;
+$colour-delectable-3: #94938f;
+$colour-delectable-4: #a3a7a6;
+$colour-delectable-5: #dbc5b0;
+$colour-delectable-6: #f8dfc2;
+$colour-delectable-7: #f9ebdf;
+
+$colour-delicious: #3399ff;
+$colour-delicious-2: #222222;
+$colour-delicious-3: #eeeeee;
+
+$colour-dell: #0085c3;
+$colour-dell-2: #7ab800;
+$colour-dell-3: #f2af00;
+$colour-dell-4: #dc5034;
+$colour-dell-5: #ce1126;
+$colour-dell-6: #b7295a;
+$colour-dell-7: #6e2585;
+$colour-dell-8: #71c6c1;
+$colour-dell-9: #5482ab;
+$colour-dell-10: #009bbb;
+$colour-dell-11: #444444;
+$colour-dell-12: #eeeeee;
+
+$colour-dental-plans: #f99104;
+$colour-dental-plans-2: #00b7c9;
+
+$colour-designer-news: #2d72d9;
+
+$colour-designmoo: #e64b50;
+$colour-designmoo-2: #dbc65d;
+
+$colour-deviantart: #05cc47;
+$colour-deviantart-2: #4dc47d;
+$colour-deviantart-3: #181a1b;
+
+$colour-devour: #ff0000;
+
+$colour-dewalt: #febd17;
+
+$colour-dhl: #ba0c2f;
+$colour-dhl-2: #ffcd00;
+$colour-dhl-3: #c9c9c9;
+
+$colour-digg: #000000;
+
+$colour-directv: #00a6d6;
+$colour-directv-2: #00629b;
+$colour-directv-3: #003865;
+
+$colour-disqus: #2e9fff;
+
+$colour-django: #092e20;
+
+$colour-dominos: #0b648f;
+$colour-dominos-2: #e21737;
+
+$colour-dow: #e80033;
+$colour-dow-2: #fdbb30;
+$colour-dow-3: #ed8b00;
+$colour-dow-4: #f15d22;
+$colour-dow-5: #bf0d3e;
+$colour-dow-6: #910048;
+$colour-dow-7: #d0006f;
+
+$colour-dribbble: #444444;
+$colour-dribbble-2: #ea4c89;
+$colour-dribbble-3: #8aba56;
+$colour-dribbble-4: #ff8833;
+$colour-dribbble-5: #00b6e3;
+$colour-dribbble-6: #9ba5a8;
+
+$colour-dropbox: #007ee5;
+$colour-dropbox-2: #7b8994;
+$colour-dropbox-3: #47525d;
+$colour-dropbox-4: #3d464d;
+
+$colour-droplr: #5654a4;
+
+$colour-drupal: #0077c0;
+$colour-drupal-2: #81ceff;
+$colour-drupal-3: #00598e;
+
+$colour-dunked: #2da9d7;
+$colour-dunked-2: #212a3e;
+
+$colour-etrade: #6633cc;
+$colour-etrade-2: #99cc00;
+
+$colour-easy-jet: #ff6600;
+$colour-easy-jet-2: #000000;
+$colour-easy-jet-3: #58595b;
+
+$colour-ebay: #e53238;
+$colour-ebay-2: #0064d2;
+$colour-ebay-3: #f5af02;
+$colour-ebay-4: #86b817;
+
+$colour-elance: #0d69af;
+
+$colour-ello: #000000;
+
+$colour-ember: #f23819;
+
+$colour-engadget: #40b3ff;
+
+$colour-envato: #82b541;
+
+$colour-ericsson: #002561;
+
+$colour-esl: #0d9ddb;
+$colour-esl-2: #48b8e7;
+$colour-esl-3: #efecea;
+$colour-esl-4: #2c2b2b;
+
+$colour-espn: #ff0033;
+
+$colour-etsy: #d5641c;
+
+$colour-evernote: #7ac142;
+$colour-evernote-2: #808084;
+
+$colour-fab-com: #dd0017;
+$colour-fab-com-2: #000000;
+
+$colour-facebook: #3b5998;
+
+$colour-famo-us: #fa5c4f;
+$colour-famo-us-2: #333333;
+
+$colour-fancy: #3098dc;
+$colour-fancy-2: #494e58;
+
+$colour-fedex: #660099;
+$colour-fedex-2: #ff6600;
+$colour-fedex-3: #00cc00;
+$colour-fedex-4: #0099cc;
+$colour-fedex-5: #ff0033;
+$colour-fedex-6: #ffcc00;
+$colour-fedex-7: #999999;
+
+$colour-fiat: #96172e;
+$colour-fiat-2: #6d2d41;
+
+$colour-firefox: #e66000;
+$colour-firefox-2: #ff9500;
+$colour-firefox-3: #ffcb00;
+$colour-firefox-4: #00539f;
+$colour-firefox-5: #0095dd;
+$colour-firefox-6: #331e54;
+$colour-firefox-7: #002147;
+
+$colour-fitbit: #4cc2c4;
+$colour-fitbit-2: #f54785;
+$colour-fitbit-3: #343434;
+
+$colour-five-guys: #ed174f;
+$colour-five-guys-2: #fbb040;
+$colour-five-guys-3: #efc402;
+$colour-five-guys-4: #d4891c;
+
+$colour-flattr: #f67c1a;
+$colour-flattr-2: #338d11;
+
+$colour-flavors-me: #f10087;
+$colour-flavors-me-2: #009ae7;
+
+$colour-flickr: #0063dc;
+$colour-flickr-2: #ff0084;
+
+$colour-flipboard: #cc0000;
+
+$colour-flixster: #2971b2;
+
+$colour-follr: #4dc9f6;
+$colour-follr-2: #f67019;
+$colour-follr-3: #f53794;
+$colour-follr-4: #537bc4;
+$colour-follr-5: #acc236;
+
+$colour-forrst: #5b9a68;
+
+$colour-foursquare: #f94877;
+$colour-foursquare-2: #0732a2;
+$colour-foursquare-3: #2d5be3;
+
+$colour-garmin: #007cc3;
+
+$colour-geocaching: #4a742c;
+
+$colour-ghost: #212425;
+$colour-ghost-2: #718087;
+$colour-ghost-3: #5ba4e5;
+$colour-ghost-4: #9fbb58;
+$colour-ghost-5: #e9e8dd;
+
+$colour-gibson: #000000;
+$colour-gibson-2: #436f8e;
+$colour-gibson-3: #887d59;
+$colour-gibson-4: #8f9696;
+
+$colour-gimmebar: #d6156c;
+
+$colour-github: #4183c4;
+$colour-github-2: #999999;
+$colour-github-3: #666666;
+$colour-github-4: #333333;
+$colour-github-5: #6cc644;
+$colour-github-6: #bd2c00;
+$colour-github-7: #ff9933;
+
+$colour-gittip: #663300;
+$colour-gittip-2: #339966;
+
+$colour-godaddy: #7db701;
+$colour-godaddy-2: #ff8a00;
+
+$colour-goodreads: #553b08;
+
+$colour-google: #4285f4;
+$colour-google-2: #db4437;
+$colour-google-3: #f4b400;
+$colour-google-4: #0f9d58;
+$colour-google-5: #e7e6dd;
+
+$colour-google-plus: #dd4b39;
+
+$colour-gravatar: #1e8cbe;
+
+$colour-groupon: #82b548;
+
+$colour-hacker-news: #ff6600;
+
+$colour-heineken: #00a100;
+$colour-heineken-2: #ff2b00;
+$colour-heineken-3: #999999;
+
+$colour-hellowallet: #0093d0;
+
+$colour-heroku: #c9c3e6;
+$colour-heroku-2: #6762a6;
+
+$colour-hi5: #fd9827;
+
+$colour-home-depot: #f96305;
+
+$colour-hootsuite: #003265;
+$colour-hootsuite-2: #f7e8d5;
+$colour-hootsuite-3: #ffbd0a;
+$colour-hootsuite-4: #c6af92;
+$colour-hootsuite-5: #71685f;
+$colour-hootsuite-6: #54493f;
+$colour-hootsuite-7: #38322d;
+
+$colour-houzz: #7ac142;
+$colour-houzz-2: #000000;
+
+$colour-hp: #0096d6;
+$colour-hp-2: #d7410b;
+
+$colour-hsbc: #db0011;
+
+$colour-html5: #e34f26;
+
+$colour-hulu: #a5cd39;
+$colour-hulu-2: #6bb03e;
+
+$colour-ibm: #006699;
+
+$colour-identi-ca: #789240;
+$colour-identi-ca-2: #7d0100;
+$colour-identi-ca-3: #8baaff;
+
+$colour-ifttt: #33ccff;
+$colour-ifttt-2: #ff4400;
+$colour-ifttt-3: #000000;
+
+$colour-iheartradio: #c6002b;
+
+$colour-ikea: #ffcc00;
+$colour-ikea-2: #003399;
+
+$colour-imdb: #f5de50;
+
+$colour-imgur: #85bf25;
+
+$colour-indiegogo: #eb1478;
+
+$colour-instacart: #60ab59;
+
+$colour-instagram: #3f729b;
+
+$colour-instapaper: #000000;
+$colour-instapaper-2: #428bca;
+
+$colour-intel: #0f7dc2;
+
+$colour-intuit: #365ebf;
+
+$colour-ios: #5fc9f8;
+$colour-ios-2: #fecb2e;
+$colour-ios-3: #fd9426;
+$colour-ios-4: #fc3158;
+$colour-ios-5: #147efb;
+$colour-ios-6: #53d769;
+$colour-ios-7: #fc3d39;
+$colour-ios-8: #8e8e93;
+
+$colour-jawbone: #000000;
+
+$colour-joyent: #ff6600;
+
+$colour-keeeb: #00a9c0;
+
+$colour-khan-academy: #9cb443;
+$colour-khan-academy-2: #242f3a;
+
+$colour-kia: #c21a30;
+
+$colour-kickstarter: #2bde73;
+$colour-kickstarter-2: #0f2105;
+
+$colour-kippt: #d51007;
+
+$colour-kitkat: #d70021;
+
+$colour-kiwipay: #00b0df;
+
+$colour-laravel: #f55247;
+
+$colour-lastfm: #d51007;
+
+$colour-linkedin: #0077b5;
+$colour-linkedin-2: #000000;
+$colour-linkedin-3: #31335;
+$colour-linkedin-4: #86888a;
+$colour-linkedin-5: #caccce;
+$colour-linkedin-6: #00a0dc;
+$colour-linkedin-7: #8d6cab;
+$colour-linkedin-8: #dd5143;
+$colour-linkedin-9: #e68523;
+
+$colour-livestream: #cf202e;
+$colour-livestream-2: #232121;
+$colour-livestream-3: #f78822;
+$colour-livestream-4: #f6db35;
+$colour-livestream-5: #6dc067;
+$colour-livestream-6: #4185be;
+$colour-livestream-7: #8f499c;
+
+$colour-lloyds: #d81f2a;
+$colour-lloyds-2: #ff9900;
+$colour-lloyds-3: #e0d86e;
+$colour-lloyds-4: #9ea900;
+$colour-lloyds-5: #6ec9e0;
+$colour-lloyds-6: #007ea3;
+$colour-lloyds-7: #9e4770;
+$colour-lloyds-8: #631d76;
+$colour-lloyds-9: #1e1e1e;
+
+$colour-lomo: #eb0028;
+$colour-lomo-2: #00a0df;
+
+$colour-lumo: #576396;
+
+$colour-lyft: #d71472;
+$colour-lyft-2: #333e48;
+$colour-lyft-3: #c2bcb5;
+$colour-lyft-4: #fcdcf0;
+$colour-lyft-5: #85a6c7;
+$colour-lyft-6: #00b2a9;
+$colour-lyft-7: #9bd9d9;
+
+$colour-mailchimp: #2c9ab7;
+$colour-mailchimp-2: #449a88;
+$colour-mailchimp-3: #febe12;
+$colour-mailchimp-4: #db3a1b;
+$colour-mailchimp-5: #373737;
+
+$colour-massy-group: #004a77;
+$colour-massy-group-2: #00adee;
+$colour-massy-group-3: #ff8100;
+$colour-massy-group-4: #ffd200;
+
+$colour-mastercard: #cc0000;
+$colour-mastercard-2: #ff9900;
+$colour-mastercard-3: #000066;
+
+$colour-meetup: #e0393e;
+
+$colour-microsoft: #f65314;
+$colour-microsoft-2: #7cbb00;
+$colour-microsoft-3: #00a1f1;
+$colour-microsoft-4: #ffbb00;
+
+$colour-microsoft-office: #ea3e23;
+
+$colour-mixpanel: #a086d3;
+
+$colour-motorola: #5c92fa;
+
+$colour-muut: #1fadc5;
+$colour-muut-2: #ff8000;
+
+$colour-myspace: #000000;
+
+$colour-nbc: #e1ac26;
+$colour-nbc-2: #dc380f;
+$colour-nbc-3: #9f0812;
+$colour-nbc-4: #6347b2;
+$colour-nbc-5: #368dd5;
+$colour-nbc-6: #70af1e;
+$colour-nbc-7: #7e887a;
+
+$colour-nest: #00afd8;
+$colour-nest-2: #7b858e;
+
+$colour-netflix: #e50914;
+$colour-netflix-2: #221f1f;
+$colour-netflix-3: #f5f5f1;
+
+$colour-netvibes: #39bd00;
+
+$colour-new-balance: #ce2724;
+$colour-new-balance-2: #f3ec19;
+$colour-new-balance-3: #207c88;
+$colour-new-balance-4: #aac1bf;
+$colour-new-balance-5: #e8e9d7;
+$colour-new-balance-6: #4c4d4f;
+$colour-new-balance-7: #231f20;
+
+$colour-nextdoor: #19975d;
+
+$colour-nike-football: #504847;
+$colour-nike-football-2: #27a770;
+
+$colour-nikefuel: #4bad31;
+$colour-nikefuel-2: #f5dc00;
+$colour-nikefuel-3: #e95814;
+$colour-nikefuel-4: #e2142d;
+
+$colour-nokia: #124191;
+
+$colour-novartis: #765438;
+$colour-novartis-2: #a13323;
+$colour-novartis-3: #e65124;
+$colour-novartis-4: #ec7f22;
+$colour-novartis-5: #f8b22a;
+$colour-novartis-6: #ffd430;
+
+$colour-npm: #cb3837;
+
+$colour-nvidia: #76b900;
+
+$colour-odnoklassniki: #ed812b;
+
+$colour-opera: #cc0f16;
+$colour-opera-2: #9c9e9f;
+
+$colour-oracle: #ff0000;
+$colour-oracle-2: #000000;
+$colour-oracle-3: #7f7f7f;
+
+$colour-oxford-university-press: #002147;
+$colour-oxford-university-press-2: #000000;
+$colour-oxford-university-press-3: #666666;
+
+$colour-panasonic: #0f58a8;
+$colour-panasonic-2: #000000;
+
+$colour-pandora: #005483;
+
+$colour-path: #ee3423;
+
+$colour-paymill: #f05000;
+
+$colour-paypal: #003087;
+$colour-paypal-2: #009cde;
+$colour-paypal-3: #012169;
+
+$colour-pearson: #ed6b06;
+$colour-pearson-2: #9d1348;
+$colour-pearson-3: #008b5d;
+$colour-pearson-4: #364395;
+
+$colour-penguin-books: #ff6900;
+
+$colour-pepsi: #e32934;
+$colour-pepsi-2: #004883;
+
+$colour-pfizer: #0093d0;
+$colour-pfizer-2: #000000;
+$colour-pfizer-3: #616365;
+$colour-pfizer-4: #00aeef;
+$colour-pfizer-5: #d6006e;
+$colour-pfizer-6: #75d1e0;
+$colour-pfizer-7: #7dba00;
+$colour-pfizer-8: #cc292b;
+$colour-pfizer-9: #00a950;
+$colour-pfizer-10: #f8971d;
+$colour-pfizer-11: #f7d417;
+$colour-pfizer-12: #4a245e;
+$colour-pfizer-13: #f26649;
+
+$colour-philips: #0e5fd8;
+
+$colour-photobucket: #0ea0db;
+$colour-photobucket-2: #000000;
+
+$colour-pinboard: #0000e6;
+
+$colour-pinterest: #cc2127;
+
+$colour-pizza-hut: #ee3124;
+$colour-pizza-hut-2: #00a160;
+$colour-pizza-hut-3: #ffc425;
+
+$colour-plasso: #6585ed;
+$colour-plasso-2: #f5756c;
+$colour-plasso-3: #98afc0;
+$colour-plasso-4: #2f3148;
+
+$colour-plaxo: #414f5a;
+
+$colour-playstation: #003087;
+
+$colour-pocket: #d3505a;
+$colour-pocket-2: #478f8f;
+
+$colour-portfolium: #0099ff;
+$colour-portfolium-2: #fb0a2a;
+$colour-portfolium-3: #17ad49;
+$colour-portfolium-4: #333333;
+
+$colour-postmates: #000000;
+$colour-postmates-2: #36454f;
+
+$colour-prezi: #318bff;
+
+$colour-priceline: #1885bf;
+
+$colour-product-hunt: #d85536;
+
+$colour-quora: #a82400;
+
+$colour-quote-fm: #66ceff;
+
+$colour-razer: #00ff00;
+
+$colour-rdio: #007dc3;
+
+$colour-readability: #990000;
+
+$colour-red-hat: #cc0000;
+
+$colour-reddit: #ff4500;
+$colour-reddit-2: #5f99cf;
+$colour-reddit-3: #cee3f8;
+
+$colour-redfin: #a02021;
+
+$colour-reverbnation: #e43526;
+
+$colour-rockpack: #0ba6ab;
+
+$colour-roku: #6f1ab1;
+
+$colour-rolls-royce: #680021;
+$colour-rolls-royce-2: #fffaec;
+$colour-rolls-royce-3: #939598;
+$colour-rolls-royce-4: #000000;
+
+$colour-roo-kids: #e22027;
+$colour-roo-kids-2: #a1cd3d;
+$colour-roo-kids-3: #003e70;
+
+$colour-roon: #62b0d9;
+
+$colour-rounds: #fdd800;
+
+$colour-rss-2: #f26522;
+
+$colour-sainsburys: #ec8a00;
+
+$colour-salesforce: #1798c1;
+$colour-salesforce-2: #ff1100;
+
+$colour-samsung: #1428a0;
+$colour-samsung-2: #75787b;
+$colour-samsung-3: #0689d8;
+$colour-samsung-4: #ffc600;
+$colour-samsung-5: #ff6900;
+$colour-samsung-6: #e4002b;
+$colour-samsung-7: #c800a1;
+$colour-samsung-8: #685bc7;
+$colour-samsung-9: #0057b8;
+$colour-samsung-10: #00a9e0;
+$colour-samsung-11: #009ca6;
+$colour-samsung-12: #00b140;
+
+$colour-sap: #003366;
+$colour-sap-2: #999999;
+
+$colour-scribd: #1a7bba;
+
+$colour-sherwin-williams: #0168b3;
+$colour-sherwin-williams-2: #ee3e34;
+
+$colour-shopify: #96bf48;
+$colour-shopify-2: #479ccf;
+$colour-shopify-3: #2d3538;
+$colour-shopify-4: #f5f5f5;
+$colour-shopify-5: #f2f7fa;
+$colour-shopify-6: #666666;
+
+$colour-skype: #00aff0;
+
+$colour-slack: #6ecadc;
+$colour-slack-2: #e9a820;
+$colour-slack-3: #e01563;
+$colour-slack-4: #3eb991;
+
+$colour-smashing-magazine: #e53b2c;
+$colour-smashing-magazine-2: #41b7d8;
+
+$colour-snagajob: #f47a20;
+
+$colour-socialbro: #29c4d0;
+$colour-socialbro-2: #f29556;
+$colour-socialbro-3: #84afa2;
+$colour-socialbro-4: #72c427;
+$colour-socialbro-5: #f24c7c;
+$colour-socialbro-6: #00aaf2;
+
+$colour-softonic: #008ace;
+
+$colour-songkick: #f80046;
+
+$colour-sonicbids: #ff6600;
+$colour-sonicbids-2: #0c88b1;
+
+$colour-soundcloud: #ff8800;
+$colour-soundcloud-2: #ff3300;
+
+$colour-spotify: #2ebd59;
+
+$colour-sprint: #ffe100;
+
+$colour-square-cash: #28c101;
+
+$colour-squarespace: #222222;
+
+$colour-stackoverflow: #fe7a15;
+
+$colour-staples: #cc0000;
+$colour-staples-2: #2c8aec;
+$colour-staples-3: #ffcc00;
+
+$colour-starbucks: #00704a;
+$colour-starbucks-2: #000000;
+
+$colour-status-chart: #d7584f;
+
+$colour-sterling-hotels: #3b5a6f;
+$colour-sterling-hotels-2: #828a87;
+$colour-sterling-hotels-3: #000000;
+$colour-sterling-hotels-4: #9db7c4;
+$colour-sterling-hotels-5: #ccd7dd;
+$colour-sterling-hotels-6: #838f97;
+$colour-sterling-hotels-7: #002054;
+
+$colour-storyful: #f97200;
+$colour-storyful-2: #010101;
+$colour-storyful-3: #8b8b64;
+$colour-storyful-4: #bbbdc0;
+
+$colour-strava: #fc4c02;
+
+$colour-stripe: #00afe1;
+
+$colour-studyblue: #00afe1;
+
+$colour-stumbleupon: #eb4924;
+
+$colour-subway-2: #00543d;
+$colour-subway-2-2: #fef035;
+
+$colour-subway: #489e3b;
+$colour-subway-2: #fabd42;
+$colour-subway-3: #cd0a20;
+
+$colour-sugarcrm: #e61718;
+$colour-sugarcrm-2: #e8e9ea;
+$colour-sugarcrm-3: #595a5c;
+$colour-sugarcrm-4: #282828;
+
+$colour-swarm: #f06d1f;
+$colour-swarm-2: #ffa633;
+
+$colour-t-mobile: #e20074;
+
+$colour-tagstr: #e74635;
+
+$colour-tagstr-2: #e74635;
+
+$colour-technorati: #339900;
+
+$colour-tesla: #cc0000;
+
+$colour-the-audience-awards: #ee8421;
+$colour-the-audience-awards-2: #8c8a8a;
+$colour-the-audience-awards-3: #222222;
+
+$colour-the-next-web: #ff3c1f;
+$colour-the-next-web-2: #26313b;
+$colour-the-next-web-3: #4e5860;
+$colour-the-next-web-4: #a6abaf;
+$colour-the-next-web-5: #d9e0e2;
+$colour-the-next-web-6: #fafbfc;
+
+$colour-thomson-reuters: #ff8000;
+$colour-thomson-reuters-2: #555555;
+$colour-thomson-reuters-3: #444444;
+$colour-thomson-reuters-4: #666666;
+$colour-thomson-reuters-5: #cccccc;
+$colour-thomson-reuters-6: #e9e9e9;
+$colour-thomson-reuters-7: #f7f7f7;
+
+$colour-tivo: #da3d34;
+$colour-tivo-2: #00a480;
+$colour-tivo-3: #ed9f40;
+$colour-tivo-4: #6a76ac;
+$colour-tivo-5: #17170e;
+$colour-tivo-6: #534b38;
+$colour-tivo-7: #a6a480;
+
+$colour-treehouse: #6fbc6d;
+$colour-treehouse-2: #47535b;
+
+$colour-trello: #0079bf;
+$colour-trello-2: #70b500;
+$colour-trello-3: #ff9f1a;
+$colour-trello-4: #eb5a46;
+$colour-trello-5: #f2d600;
+$colour-trello-6: #c377e0;
+$colour-trello-7: #ff78cb;
+$colour-trello-8: #00c2e0;
+$colour-trello-9: #51e898;
+$colour-trello-10: #c4c9cc;
+
+$colour-tripadvisor: #589442;
+
+$colour-trulia: #5eab1f;
+
+$colour-tumblr: #35465c;
+
+$colour-tunngle: #c30f24;
+
+$colour-tvtag: #f24e4e;
+
+$colour-twitch-tv: #6441a5;
+
+$colour-twitter: #55acee;
+
+$colour-typekit: #98ce1e;
+
+$colour-typepad: #d2de61;
+
+$colour-typo3: #ff8600;
+
+$colour-ubuntu: #dd4814;
+$colour-ubuntu-2: #77216f;
+$colour-ubuntu-3: #5e2750;
+$colour-ubuntu-4: #2c001e;
+$colour-ubuntu-5: #aea79f;
+$colour-ubuntu-6: #333333;
+
+$colour-united-way: #10167f;
+$colour-united-way-2: #fe230a;
+$colour-united-way-3: #ff9600;
+$colour-united-way-4: #000064;
+$colour-united-way-5: #b41428;
+$colour-united-way-6: #f57814;
+$colour-united-way-7: #e6d7aa;
+$colour-united-way-8: #505050;
+$colour-united-way-9: #f0e6c8;
+$colour-united-way-10: #969696;
+$colour-united-way-11: #7c81b8;
+$colour-united-way-12: #ff967d;
+$colour-united-way-13: #ffc87d;
+
+$colour-unity: #222c37;
+$colour-unity-2: #00cccc;
+$colour-unity-3: #fff600;
+$colour-unity-4: #ff0066;
+$colour-unity-5: #19e3b1;
+$colour-unity-6: #ff7f33;
+$colour-unity-7: #b83c82;
+
+$colour-university-of-oregon: #fce122;
+$colour-university-of-oregon-2: #18453b;
+
+$colour-univision: #c822b0;
+
+$colour-ustream: #3388ff;
+
+$colour-verizon: #ff0000;
+$colour-verizon-2: #f2f2f2;
+$colour-verizon-3: #3285dc;
+
+$colour-viadeo: #f07355;
+
+$colour-viki: #3c9cd7;
+$colour-viki-2: #d24663;
+
+$colour-vimeo: #162221;
+$colour-vimeo-2: #1ab7ea;
+
+$colour-vine: #00b488;
+
+$colour-virb: #1e91d0;
+
+$colour-virgin-media: #c3092d;
+$colour-virgin-media-2: #222221;
+
+$colour-vkontakte: #45668e;
+
+$colour-volvo: #003057;
+$colour-volvo-2: #115740;
+$colour-volvo-3: #65665c;
+$colour-volvo-4: #425563;
+$colour-volvo-5: #517891;
+$colour-volvo-6: #212721;
+
+$colour-walgreens: #e31837;
+$colour-walgreens-2: #f37520;
+$colour-walgreens-3: #489cd4;
+$colour-walgreens-4: #2774a6;
+$colour-walgreens-5: #35393d;
+
+$colour-walmart: #0e7bc3;
+$colour-walmart-2: #05509b;
+$colour-walmart-3: #6eaddf;
+$colour-walmart-4: #f27922;
+$colour-walmart-5: #fcbc32;
+$colour-walmart-6: #3b7f2c;
+$colour-walmart-7: #7ec544;
+
+$colour-wechat: #7bb32e;
+
+$colour-wendys: #e2203d;
+$colour-wendys-2: #199fda;
+
+$colour-western-digital: #005195;
+$colour-western-digital-2: #028948;
+$colour-western-digital-3: #ffd400;
+$colour-western-digital-4: #0067b3;
+$colour-western-digital-5: #9d0a0e;
+$colour-western-digital-6: #003369;
+
+$colour-whatsapp: #4dc247;
+
+$colour-windows: #00bcf2;
+
+$colour-windows-phone: #68217a;
+
+$colour-wooga: #5b009c;
+
+$colour-wordpress: #21759b;
+$colour-wordpress-2: #d54e21;
+$colour-wordpress-3: #464646;
+
+$colour-wordpress-com: #0087be;
+$colour-wordpress-com-2: #78dcfa;
+$colour-wordpress-com-3: #00aadc;
+$colour-wordpress-com-4: #005082;
+$colour-wordpress-com-5: #87a6bc;
+$colour-wordpress-com-6: #f3f6f8;
+$colour-wordpress-com-7: #e9eff3;
+$colour-wordpress-com-8: #e9eff3;
+$colour-wordpress-com-9: #a8bece;
+$colour-wordpress-com-10: #668eaa;
+$colour-wordpress-com-11: #4f748e;
+$colour-wordpress-com-12: #3d596d;
+$colour-wordpress-com-13: #2e4453;
+$colour-wordpress-com-14: #d54e21;
+$colour-wordpress-com-15: #f0821e;
+$colour-wordpress-com-16: #4ab866;
+$colour-wordpress-com-17: #f0b849;
+$colour-wordpress-com-18: #d94f4f;
+
+$colour-worldline: #0066a1;
+
+$colour-wunderlist: #2b96f1;
+
+$colour-xbox: #52b043;
+
+$colour-xing: #026466;
+$colour-xing-2: #cfdc00;
+
+$colour-yahoo: #400191;
+
+$colour-yandex: #ffcc00;
+
+$colour-yelp: #af0606;
+
+$colour-yo: #9b59b6;
+$colour-yo-2: #e74c3c;
+$colour-yo-3: #8e44ad;
+$colour-yo-4: #2980b9;
+$colour-yo-5: #f1c40f;
+$colour-yo-6: #16a085;
+$colour-yo-7: #34495e;
+$colour-yo-8: #3498db;
+$colour-yo-9: #2ecc71;
+$colour-yo-10: #1abc9c;
+
+$colour-youtube: #cd201f;
+
+$colour-zendesk: #78a300;
+$colour-zendesk-2: #f1f1f1;
+$colour-zendesk-3: #444444;
+
+$colour-zerply: #9dbc7a;
+
+$colour-zillow: #1277e1;
+
+$colour-zopim: #ff9d3b;
+
