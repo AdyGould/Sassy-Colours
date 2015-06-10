@@ -1,19 +1,27 @@
 /**
- * Sass Colour Definitions - Web Technologies
+ * Sass Colour Definitions - Brands J
  *
- * @file:       /_colours-web-technologies.scss
+ * @file:       /_colours-brands-j.scss
  * @project:    Sassy-Colours
  * @author:     adrian gould <adrian.gould@polytechnic.wa.edu.au>
- * @date:       03/06/15
+ * @date:       09/06/15
  * @version:    1.0
  * @copyright:  Copyright 2015 Adrian Gould,
  *              Released under the Creative Commons Share Alike license
  *
  * History:
  *
- * v 1.0    03/06/15
+ * v 1.0    09/06/15
  *          Initial version
  */
+
+
+
+$colour-javascript:               #F0DB4F;
+
+$colour-jawbone:                  #000000;
+
+$colour-joyent:                   #ff6600;
 
 $colour-jquery-black:             #333333;
 $colour-jquery-primary:           #0769ad;
@@ -28,10 +36,3 @@ $colour-jquerymobile-secondary:   #108040;
 $colour-jquerysizzle-primary:     #FAA523;
 $colour-jquerysizzle-secondary:   #9A1B1E;
 
-$colour-javascript:               #F0DB4F;
-
-$colour-php-bg:                   #777BB4;
-
-$colour-sass :                    #cc6699;
-
-$colour-compass:                  #E21709;
