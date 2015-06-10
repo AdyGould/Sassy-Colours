@@ -1,11 +1,29 @@
 # Sassy-Colours
-SASS/SCSS colour defintions for brands, CSS named colours and more
+SASS/SCSS colour defintiions for brands, CSS named colours and more
 
 ## Introduction
+
+A SASS/Compass collection of named colours for world wide brands, technology systems, programming languages and more.
+
+Colours include those for:
+
+- web frameworks such as JQuery
+-- $colour-jquery-black:             #333333
+-- $colour-jquery-primary:           #0769ad
+-- $colour-jquery-secondary:         #7acef4
+- corporations such as Google.
+-- $colour-google: #4285f4
+-- $colour-google-2: #db4437
+-- $colour-google-3: #f4b400
+-- $colour-google-4: #0f9d58
+-- $colour-google-5: #e7e6dd
 
 ## Reasoning
 
 ## Contributing
+
+Fork a branch, add the brand colour definitions to the file.
+When possible make a note of where/how colour was discovered (eg, web colour picker, Photoshop CC, Branding guide) with relevant URI where possible.
 
 ## Naming issues
 
